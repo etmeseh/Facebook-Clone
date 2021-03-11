@@ -99,21 +99,6 @@ body
     cursor: pointer;
 }
 
-#pass input,  
-{
-    width: 100%;
-    height: 100%;
-    outline: none;
-    color: white;
-    font-weight: bolder;
-    font-size: 17px;
-    border: none;
-    padding-left: 15px;
-    background: none;
-    
-}
-
-
 .otherInputs
 {
     width: 100%;
